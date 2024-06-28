@@ -1,0 +1,9 @@
+import './nav.css';
+function Nav2(){
+    return (
+        <div class="about">
+            <h2>ABOUT US</h2>
+            
+        </div>
+        )
+        }

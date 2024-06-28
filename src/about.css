@@ -1,0 +1,76 @@
+.body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.profile-section img {
+    width: 150px;
+    height: auto;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.info-section {
+    max-width: 500px;
+}
+
+h1 {
+    font-size: 24px;
+    color: #ff5722;
+}
+
+h2 {
+    font-size: 20px;
+    color: #333;
+    margin: 10px 0;
+}
+
+p {
+    font-size: 16px;
+    color: #666;
+}
+
+.contact-info p {
+    margin: 5px 0;
+}
+
+h3 {
+    font-size: 18px;
+    color: #ff5722;
+    margin: 15px 0 10px;
+}
+
+.skills span {
+    display: inline-block;
+    background-color: #f0f0f0;
+    color: #333;
+    padding: 5px 10px;
+    border-radius: 4px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+.skills span:hover {
+    background-color: #ff5722;
+    color: #fff;
+}
+.aboutmee
+{
+    display: flex;
+    gap: 150px;
+}

@@ -1,0 +1,8 @@
+import './nav.css';
+function Nav1(){
+    return (
+    <div class="navbar2">
+            <h2>Focused on excellence for our client,we are well established,with a reputation for great service & a high quality finish</h2>
+        </div>
+        )
+        }

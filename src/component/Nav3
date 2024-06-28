@@ -1,0 +1,6 @@
+import './nav.css';
+function Nav3(){
+    return (
+        <div>
+            <img src={imgg} className='sree'></img>
+        </div>)}
